@@ -33,3 +33,4 @@ Thanks for joining me on my journey!
 This blog post will be updated as I complete blogs about Scenic Ridge.  You can also check out the Categories page and pick [Scenic Ridge]({{ "/categories/scenic-ridge/" | relative_url }}).
 
 1. Introduction (this blog post).
+2. [Benchwork]({% post_url 2023-09-24-scenic-ridge-2 %})
