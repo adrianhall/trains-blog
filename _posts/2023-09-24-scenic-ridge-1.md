@@ -19,7 +19,7 @@ To kick off my new old hobby, I thought I would build something that already had
 
 Since this is a new blog and a new layout, I figured I'd put some of my ideas down.
 
-1. I want to learn scenary. I didn't do a lot of scenary when I was running trains in my teenage years, and that seems fun.  This is why I purchased Scenic Ridge - it looks like an introduction to scenary.
+1. I want to learn scenery. I didn't do a lot of scenery when I was running trains in my teenage years, and that seems fun.  This is why I purchased Scenic Ridge - it looks like an introduction to scenery.
 2. I want to run DCC.  Explicitly, I want to run [DCC-EX](https://dcc-ex.com), because I'm into tech and Arduino has always fascinated me.
 3. I don't want to use the stock building kit that you can buy from Woodland Scenics.  The layout doesn't lend itself to a busy town - it's more of an old-timey quarry and village type thing.  I also want to try different model types - cardstock, laser cut, plastic, and so on.  So I'll be buying individual models.
 4. I have a sense of humor, so I want to include the whimsical.  Maybe a sasquatch, or an alien or two.  Who knows what I'll find when I am searching Etsy!
@@ -34,3 +34,4 @@ This blog post will be updated as I complete blogs about Scenic Ridge.  You can 
 
 1. Introduction (this blog post).
 2. [Benchwork]({% post_url 2023-09-24-scenic-ridge-2 %})
+3. [Foam base]({% post_url 2023-09-25-scenic-ridge-3 %})

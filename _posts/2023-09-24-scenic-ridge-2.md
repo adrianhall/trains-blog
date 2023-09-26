@@ -23,7 +23,7 @@ In terms of tools, I got the following:
 * A set of [PowerTex 12 in. Bar Clamps](https://www.homedepot.com/p/POWERTEC-12-in-600-lbs-Bar-Clamp-Set-F-Clamp-w-3-in-Throat-Depth-4-Pack-71626/323252336) (which I borrowed from Matt).
 * 2 [saw horses](https://www.homedepot.com/p/Signature-Development-24-in-W-x-29-in-H-Wooden-Sawhorse-378739/100029549) to stand the finished product on.
 
-Matt also offered a mitre saw (like [this one](https://www.homedepot.com/p/RYOBI-14-Amp-Corded-10-in-Compound-Miter-Saw-with-LED-Cutline-Indicator-TS1346/306939211)), but I had already cut most of the lumber to size at that point.
+Matt also offered a miter saw (like [this one](https://www.homedepot.com/p/RYOBI-14-Amp-Corded-10-in-Compound-Miter-Saw-with-LED-Cutline-Indicator-TS1346/306939211)), but I had already cut most of the lumber to size at that point.
 
 Manufacturing was simple:
 
