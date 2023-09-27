@@ -37,4 +37,6 @@ The risers bend nicely thanks to the spring-like structure. You can pin quite a 
 
 ![The top level risers in place](/assets/img/2023-09-26-img7.jpg)
 
+Once I've seen the track working and can confirm the placement of the risers, I'll unpin all this and re-do the lower level.  There will be another post about that step.
+
 I've got some time before the track and locomotive is due to show up, so the next post is going to be building the [DCC-EX](https://dcc-ex.com) control system.
