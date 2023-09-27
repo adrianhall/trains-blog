@@ -25,11 +25,7 @@ Finally, I looked up what is needed for [DCC-EX](https://dcc-ex.com), and settle
 
 I realized that I forgot something to connect to the actual track.  That means I can't run the train even if I had it available. I placed an order for 4 [Atlas N Code 80 Nickel Silver Terminal Joiners](https://www.amazon.com/gp/product/B0006O7RA6), which are coming from [Iron Planet Hobbies](https://www.ironplanethobbies.com/) via Amazon. I suspect the locomotive and track pack that I ordered will arrive around the same time.
 
-On to todays task - I need to lay the initial set of risers down onto the foam board.  First off, grab some risers and the foam tack pins:
-
-![The foam risers and tack pins](/assets/img/2023-09-26-img4.jpg)
-
-Then you lay the foam riser in between the lines and pin it in place.
+On to todays task - I need to lay the initial set of risers down onto the foam board.  First off, I grabbed some risers and the foam tack pins, then I pinned the first riser at a starting point.
 
 ![Pinning the first foam riser](/assets/img/2023-09-26-img5.jpg)
 
@@ -37,6 +33,8 @@ The risers bend nicely thanks to the spring-like structure. You can pin quite a 
 
 ![The foam risers are positioned](/assets/img/2023-09-26-img6.jpg)
 
-... before you realize your somewhat fatal flaw in all this.  I don't want to glue them down until I've put some track down and run a train.  That will allow me to see if the foam is going in the right places.  But the track doesn't arrive until later in the week.  I suspect I'll need to re-pin all this later in the week.
+... before I realized my somewhat fatal flaw in all this.  I don't want to glue them down until I've put some track down and run a train.  That will allow me to see if the foam is going in the right places.  But the track doesn't arrive until later in the week. So I unpinned them all, and started working on the second level of risers. This will allow me to pin the entire track in one go without having to deal with two levels of risers.  To do this, I had to cut a little bit (with the foam cutter) for where the tracks cross over.  Otherwise, it was uneventful.  Here is the work so far.
 
-The next check-in will be after the track arrives and I can test out the layout.
+![The top level risers in place](/assets/img/2023-09-26-img7.jpg)
+
+I've got some time before the track and locomotive is due to show up, so the next post is going to be building the [DCC-EX](https://dcc-ex.com) control system.
