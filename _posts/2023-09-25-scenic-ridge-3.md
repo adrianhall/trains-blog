@@ -7,15 +7,15 @@ tags: [ "Scale,N" ]
 
 Today, the Scenic Ridge scenery pack arrived, and it is a huge box!
 
-![The Woodland Scenics box](/assets/img/2023-09-25-img1.jpg)
+![The Woodland Scenics box](//assets/2023/0925/img1.jpg)
 
 The box holds a tray (which was a joy to get out - I ended up cutting the box up) with all the stuff in it:
 
-![The Woodland Scenics kit unboxes](/assets/img/2023-09-25-img2.jpg)
+![The Woodland Scenics kit unboxes](/assets/2023/0925/img2.jpg)
 
 I have to wait a little longer for the other tools and parts I want, but I can at least get going with assembly by laying down the foam board that acts as the base.  Remember I mentioned that the wood was cut a little large?  Well, it turns out the foam board isn't exactly 3'x6' either. If I want to center the layout on the baseboard, I need to do some maths.  Here are the tools I am using today:
 
-![The tool set](/assets/img/2023-09-25-img3.jpg)
+![The tool set](/assets/2023/0925/img3.jpg)
 
 I had all these on hand:
 
@@ -31,6 +31,6 @@ Measuring the baseboard, it was 74" by 37 3/4".  The foam boards are 71" by 35 3
 
 Then I waited before doing the next board.  During drying, the boards can shift.  I don't want them to move, so it's better to just let the glue dry - I waited about 30 minutes before starting the next foam board. For the next board, it's more important that the lines on the board line up, so I made that my guide.  I drew lines at the other side to show where the second board ended, lifted the board up, laid glue down, and then put the board down again, taking care to line up the lines on the board again.  Repeat for the final board.  Once done, you'll have something like this:
 
-![Foam board laid on the baseboard](/assets/img/2023-09-25-img4.jpg)
+![Foam board laid on the baseboard](/assets/2023/0925/img4.jpg)
 
 All told, it was something like 20 minutes work.  However, it was spread over a whole evening to allow time for drying.  As much as I want to get started on laying the track risers out (which is the next step), I'll leave that for next time.
