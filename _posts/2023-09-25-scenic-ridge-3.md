@@ -33,4 +33,4 @@ Then I waited before doing the next board.  During drying, the boards can shift.
 
 ![Foam board laid on the baseboard](/assets/2023/0925/img4.jpg)
 
-All told, it was something like 20 minutes work.  However, it was spread over a whole evening to allow time for drying.  As much as I want to get started on laying the track risers out (which is the next step), I'll leave that for next time.
+All told, it was something like 20 minutes work.  However, it was spread over a whole evening to allow time for drying.  As much as I want to get started on laying the track risers out (which is the next step), I'll [leave that for next time]({% post_url 2023-09-26-scenic-ridge-4 %}).

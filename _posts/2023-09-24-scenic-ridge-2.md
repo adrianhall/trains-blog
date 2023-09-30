@@ -67,7 +67,7 @@ In keeping with the "just-in-time" ordering I am doing for this project, I order
 
 I'm going to figure out DCC and wiring eventually, but for now, I've got some waiting to do for stuff to arrive.  In the meantime, to Youtube I will go!
 
-See you next time!
+See you next time, when I [put the foam base down]({% post_url 2023-09-25-scenic-ridge-3 %})!
 
 > **Prices and Links**
 > All prices are the price I actually paid in USD, without tax or shipping.  All links are correct at the time of writing and refer to the place where I actually purchased the items, but don't necessarily reflect the best price or availability.
