@@ -64,4 +64,6 @@ Here is some video of the locomotive making its way around the track!
   Your browser does not support the video tag.
 </video>
 
+If you have followed the instructions for joining the EX-CommandStation to Wi-Fi, you can also use an iOS throttle like [SRCPClient](https://apps.apple.com/us/app/srcpclient/id1495402734) (which is free) or [WiThrottle](https://apps.apple.com/app/id344172578) (which costs $9.99 on the iOS store).  I used SRCPClient and found it easy to start running trains.
+
 Now I've proven out the positioning of the risers relative to the actual track, I can dismantle the track and the top level of risers.  Once I've done that, I'll be laying the lower level of risers down.  But that's next time.
