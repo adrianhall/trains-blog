@@ -39,4 +39,4 @@ The risers bend nicely thanks to the spring-like structure. You can pin quite a 
 
 Once I've seen the track working and confirm the placement of the risers, I'll unpin all this and re-do the lower level.  There will be another post about that step.
 
-I've got some time before the track and locomotive is due to show up, so [the next post]({% post_url 2023-09-30-dcc-ex %}) is going to be building the [DCC-EX](https://dcc-ex.com) control system.
+I've got some time before the track and locomotive is due to show up, so [the next post]({% post_url 2023-09-30-dcc-ex %}) is going to be building the [DCC-EX](https://dcc-ex.com) control system.  After that, I'm going to be [laying track down]({% post_url 2023-10-01-scenic-ridge-5 %}) and running a train.
