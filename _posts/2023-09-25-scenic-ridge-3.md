@@ -7,7 +7,7 @@ tags: [ "Scale,N" ]
 
 Today, the Scenic Ridge scenery pack arrived, and it is a huge box!
 
-![The Woodland Scenics box](//assets/2023/0925/img1.jpg)
+![The Woodland Scenics box](/assets/2023/0925/img1.jpg)
 
 The box holds a tray (which was a joy to get out - I ended up cutting the box up) with all the stuff in it:
 
