@@ -37,3 +37,5 @@ This blog post will be updated as I complete blogs about Scenic Ridge.  You can 
 3. [Foam base]({% post_url 2023-09-25-scenic-ridge-3 %})
 4. [Track risers]({% post_url 2023-09-26-scenic-ridge-4 %})
 5. [Track laying]({% post_url 2023-10-01-scenic-ridge-5 %})
+6. [Gluing down the lower level of risers]({% post_url 2023-10-03-scenic-ridge-6 %})
+7. [Gluing down the upper level of risers]({% post_url 2023-10-04-scenic-ridge-7 %})

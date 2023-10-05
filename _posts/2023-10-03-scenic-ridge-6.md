@@ -41,4 +41,4 @@ The final bits (the end of the track and the gaps in the middle) require less th
 
 Having gone through this, I feel the methodology for gluing this stuff down.  I feel you want a secure bond like the Titebond - it takes longer to dry, but it is more secure.  Whether Titebond is the right glue for foam on foam or if you want to use foam tack glue instead is another thing to consider.  Some experimentation is required, I feel.  For the top section, I might try putting the Titebond on the bottom of the riser, then pin it to ensure it holds the position, and finally glue the edges as before.  I feel this will give me the best result, especially considering how close some of the risers are to each other.
 
-Next up is installing the second level of risers and the overpass (that will be inside the tunnel).  Until then, happy modeling!
+Next up is [installing the second level of risers and the overpass]({% post_url 2023-10-04-scenic-ridge-7 %}) (that will be inside the tunnel).  Until then, happy modeling!
