@@ -39,6 +39,7 @@ This blog post will be updated as I complete blogs about Scenic Ridge.  You can 
 5. [Track laying]({% post_url 2023-10-01-scenic-ridge-5 %})
 6. [Gluing down the lower level of risers]({% post_url 2023-10-03-scenic-ridge-6 %})
 7. [Gluing down the upper level of risers]({% post_url 2023-10-04-scenic-ridge-7 %})
+8. [Tunnel Construction part 1 - plaster cloth]({% post_url 2023-10-05-scenic-ridge-8 %})
 
 ## Parts List
 

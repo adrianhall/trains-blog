@@ -1,6 +1,6 @@
 ---
 title: "Scenic Ridge: The upper level of risers"
-date: 2023-10-03 18:03:00 +0800
+date: 2023-10-04 18:03:00 +0800
 categories: [ "Scenic Ridge" ]
 tags: [ "Scale,N" ]
 ---
