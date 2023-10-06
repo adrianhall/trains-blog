@@ -39,3 +39,36 @@ This blog post will be updated as I complete blogs about Scenic Ridge.  You can 
 5. [Track laying]({% post_url 2023-10-01-scenic-ridge-5 %})
 6. [Gluing down the lower level of risers]({% post_url 2023-10-03-scenic-ridge-6 %})
 7. [Gluing down the upper level of risers]({% post_url 2023-10-04-scenic-ridge-7 %})
+
+## Parts List
+
+In the table below are the parts for this layout that I purchased. I do not include tools in the parts list, as quite a few came from my garage, and can be reused between layouts.  This should be representative of how much this layout would cost to build.
+
+I do not include tax or shipping in the amounts.  These vary wildly between localities.  I shop in US dollars, so those prices are also in US dollars.
+
+| Description                                | Qty    | Unit $  | Total $ |
+|+===========================================|+======+|========+| =======+|
+| 1 in. x 3 in. x 8 ft. Select Board         | 5      | $2.64   | $13.20  |
+| 4 ft. x 8 ft. x 1/2 in. Plywood            | 1      | $48.45  | $48.45  |
+| Griprite #6 x 1 5/8 in. screws             | 1 lb.  | $9.58   | $9.58   |
+| Titebond II Wood Glue                      | 16 oz. | $9.98   | $9.98   |
+| Woodland Scenics Scenic Ridge              | 1      | $354.99 | $354.99 |
+| Atlas Scenic Ridge Track Pack              | 1      | $93.50  | $93.50  |
+| Songhe Mega2560 + Wifi R3                  | 1      | $22.88  | $22.88  |
+| KOOBOOK L298P Motor Shield                 | 1      | $16.99  | $16.99  |
+| 12V DC Power Connectors (10 per pack)      | 1      | $7.99   | $7.99   |
+| UpBright 16V AC/DC Adapter                 | 1      | $21.99  | $21.99  |
+| 18AWG Solid Core Red and Black Wire (20ft) | 1      | $9.98   | $9.98   |
+| Atlas N Code 80 Terminal Joiners           | 4      | $8.32   | $8.32   |
+| Atlas 2536 N Code 80 Bumpers (qty 2)       | 1      | $4.57   | $4.57   |
+| Atlas 2753 N Code 80 #6 Right Hand Switch  | 1      | $25.33  | $25.33  |
+| Atlas 2501 N Code 80 5" Straight track     | 6      | $1.26   | $7.56   |
+| Atlas 2532 N Code 80 Rerailer (qty 2)      | 1      | $4.32   | $4.32   |
+| Gorilla Mini Glue Sticks (pack of 75)      | 1      | $7.83   | $7.83   |
+| Pack of 50 Nitrile Gloves                  | 1      | $8.69   | $8.69   |
+| 14AWG 2 conductor stranded wire 50ft       | 1      | $19.98  | $19.98  |
+| 22AWG 2 conductor stranded wire 200ft      | 1      | $16.98  | $16.98  |
+| Terminal block - 12 position 10Amp (x10)   | 1      | $8.59   | $8.59   |
+| 50 pairs T-Tap Wire connectors             | 1      | $6.29   | $6.29   |
+
+Total cost: **$727.99**
