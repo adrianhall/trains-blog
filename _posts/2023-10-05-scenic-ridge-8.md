@@ -1,6 +1,6 @@
 ---
 title: "Scenic Ridge: Tunnel construction #1"
-date: 2023-10-04 18:03:00 +0800
+date: 2023-10-05 18:03:00 +0800
 categories: [ "Scenic Ridge" ]
 tags: [ "Scale,N" ]
 ---
@@ -33,4 +33,4 @@ Finally, when I got to the end where I needed to be, I opted for wrapping both s
 
 Now that I have the plaster cloth on, I'll let it dry overnight and take a look at it tomorrow evening.  I'll then sand it with a 120 grade sanding block so that it is smooth.
 
-Next up is laying the track bed down in the tunnels. Until then, happy modeling!
+Next up is [laying the track bed down]({% post_url 2023-10-05-scenic-ridge-8 %}) in the tunnels. Until then, happy modeling!
