@@ -72,4 +72,22 @@ I do not include tax or shipping in the amounts.  These vary wildly between loca
 | Terminal block - 12 position 10Amp (x10)   | 1      | $8.59   | $8.59   |
 | 50 pairs T-Tap Wire connectors             | 1      | $6.29   | $6.29   |
 
-Total cost: **$727.99**
+Total cost: **$648.16**
+
+Parts for the DCC-EX Command Station:
+
+| Description                                | Qty    | Unit $  | Total $ |
+|+===========================================|+======+|========+| =======+|
+| Songhe Mega2560 + Wifi R3                  | 1      | $22.88  | $22.88  |
+| KOOBOOK L298P Motor Shield                 | 1      | $16.99  | $16.99  |
+| 12V DC Power Connectors (10 per pack)      | 1      | $7.99   | $7.99   |
+| UpBright 16V AC/DC Adapter                 | 1      | $21.99  | $21.99  |
+| 18AWG Solid Core Red and Black Wire (20ft) | 1      | $9.98   | $9.98   |
+| Reculety Project Box (2 in pack; need 1)   | 1      | $7.49   | $7.49   |
+| Female DC Threaded Barrel Jack Panel Adapter | 1    | $10.99  | $10.99  |
+| M3 Nylon Hex Spacer Standoff set           | 1      | $7.99   | $7.99   |
+| 30cm Micro USB Mount Extension cable       | 1      | $10.78  | $10.78  |
+
+Total cost: **117.08**
+
+As you can see, you are not saving *that* much going with DCC-EX, and end up with a much less polished product that is more technically challenging to implement.
