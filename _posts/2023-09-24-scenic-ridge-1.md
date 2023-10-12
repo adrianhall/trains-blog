@@ -71,8 +71,9 @@ I do not include tax or shipping in the amounts.  These vary wildly between loca
 | 22AWG 2 conductor stranded wire 200ft      | 1      | $16.98  | $16.98  |
 | Terminal block - 12 position 10Amp (x10)   | 1      | $8.59   | $8.59   |
 | 50 pairs T-Tap Wire connectors             | 1      | $6.29   | $6.29   |
+| Solder Wire and Rosin Paste Flux Kit       | 1      | $8.99   | $8.99   |
 
-Total cost: **$648.16**
+Total cost: **$657.15**
 
 Parts for the DCC-EX Command Station:
 
