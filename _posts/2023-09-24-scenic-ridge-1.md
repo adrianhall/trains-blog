@@ -40,6 +40,12 @@ This blog post will be updated as I complete blogs about Scenic Ridge.  You can 
 6. [Gluing down the lower level of risers]({% post_url 2023-10-03-scenic-ridge-6 %})
 7. [Gluing down the upper level of risers]({% post_url 2023-10-04-scenic-ridge-7 %})
 8. [Tunnel Construction part 1 - plaster cloth]({% post_url 2023-10-05-scenic-ridge-8 %})
+9. [Tunnel Construction part 2 - track bed]({% post_url 2023-10-06-scenic-ridge-9 %})
+10. [Tunnel Construction part 3 - laying track]({% post_url 2023-10-11-scenic-ridge-10 %})
+11. [Tunnel Construction part 4 - ballast]({% post_url 2023-10-15-scenic-ridge-11 %})
+12. [Tunnel Construction part 5 - tunnel portals]({% post_url 2023-10-15-scenic-ridge-12 %})
+13. [Profile Boards part 1 - setting up]({% post_url 2023-10-18-scenic-ridge-13 %})
+14. [Profile Boards part 2 - carving]({% post_url 2023-10-19-scenic-ridge-14 %})
 
 ## Parts List
 

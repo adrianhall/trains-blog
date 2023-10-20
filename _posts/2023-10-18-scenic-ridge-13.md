@@ -1,5 +1,5 @@
 ---
-title: "Scenic Ridge: Profile boards"
+title: "Scenic Ridge: Profile boards #1"
 date: 2023-10-18 18:03:00 +0800
 categories: [ "Scenic Ridge" ]
 tags: [ "Scale,N" ]
