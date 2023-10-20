@@ -46,6 +46,7 @@ This blog post will be updated as I complete blogs about Scenic Ridge.  You can 
 12. [Tunnel Construction part 5 - tunnel portals]({% post_url 2023-10-15-scenic-ridge-12 %})
 13. [Profile Boards part 1 - setting up]({% post_url 2023-10-18-scenic-ridge-13 %})
 14. [Profile Boards part 2 - carving]({% post_url 2023-10-19-scenic-ridge-14 %})
+15. [Finishing off the tunnels]({% post_url 2023-10-20-scenic-ridge-15 %})
 
 ## Parts List
 
