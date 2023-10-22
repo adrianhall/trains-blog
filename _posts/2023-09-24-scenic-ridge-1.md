@@ -47,6 +47,7 @@ This blog post will be updated as I complete blogs about Scenic Ridge.  You can 
 13. [Profile Boards part 1 - setting up]({% post_url 2023-10-18-scenic-ridge-13 %})
 14. [Profile Boards part 2 - carving]({% post_url 2023-10-19-scenic-ridge-14 %})
 15. [Finishing off the tunnels]({% post_url 2023-10-20-scenic-ridge-15 %})
+16. [Building the model platforms]({% post_url 2023-10-22-scenic-ridge-16 %})
 
 ## Parts List
 
@@ -79,8 +80,9 @@ I do not include tax or shipping in the amounts.  These vary wildly between loca
 | Terminal block - 12 position 10Amp (x10)   | 1      | $8.59   | $8.59   |
 | 50 pairs T-Tap Wire connectors             | 1      | $6.29   | $6.29   |
 | Solder Wire and Rosin Paste Flux Kit       | 1      | $8.99   | $8.99   |
+| 2ft x 2ft x 1in XPS foam boards            | 6      | $8.67   | $52.02  |
 
-Total cost: **$657.15**
+Total cost: **$709.17**
 
 Parts for the DCC-EX Command Station:
 
