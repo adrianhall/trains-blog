@@ -1,0 +1,23 @@
+{
+  "name": "Jekyll",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "args": {
+      "VARIANT": "bullseye",
+      "NODE_VERSION": "lts/*"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "shd101wyy.markdown-preview-enhanced"
+      ]
+    }
+  },
+  "forwardPorts": [ 4000, 35729 ],
+  "mounts": [
+    "source=${localWorkspaceFolder},target=/srv/jekyll,type=bind,consistency=cached"
+  ],
+  "postCreateCommand": "sh .devcontainer/post-create.sh",
+  "remoteUser": "vscode"
+}
