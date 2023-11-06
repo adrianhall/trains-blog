@@ -52,6 +52,7 @@ This blog post will be updated as I complete blogs about Scenic Ridge.  You can 
 18. [Building the mountain]({% post_url 2023-10-27-scenic-ridge-18 %})
 19. [More landscape]({% post_url 2023-10-28-scenic-ridge-19 %})
 20. [More track beds]({% post_url 2023-11-02-scenic-ridge-20 %})
+21. [Track laying]({% post_url 2023-11-04-scenic-ridge-21 %})
 
 ## Parts List
 
@@ -85,8 +86,9 @@ I do not include tax or shipping in the amounts.  These vary wildly between loca
 | 50 pairs T-Tap Wire connectors             | 1      | $6.29   | $6.29   |
 | Solder Wire and Rosin Paste Flux Kit       | 1      | $8.99   | $8.99   |
 | 2ft x 2ft x 1in XPS foam boards            | 6      | $8.67   | $52.02  |
+| Woodland Scenics N-Scale track bed         | 1      | $11.99  | $11.99  |
 
-Total cost: **$709.17**
+Total cost: **$721.16**
 
 Parts for the DCC-EX Command Station:
 
