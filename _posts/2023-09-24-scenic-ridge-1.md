@@ -53,6 +53,7 @@ This blog post will be updated as I complete blogs about Scenic Ridge.  You can 
 19. [More landscape]({% post_url 2023-10-28-scenic-ridge-19 %})
 20. [More track beds]({% post_url 2023-11-02-scenic-ridge-20 %})
 21. [Track laying]({% post_url 2023-11-04-scenic-ridge-21 %})
+22. [Track wiring]({% post_url 2023-11-07-scenic-ridge-22 %})
 
 ## Parts List
 
