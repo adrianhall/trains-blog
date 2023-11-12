@@ -54,6 +54,7 @@ This blog post will be updated as I complete blogs about Scenic Ridge.  You can 
 20. [More track beds]({% post_url 2023-11-02-scenic-ridge-20 %})
 21. [Track laying]({% post_url 2023-11-04-scenic-ridge-21 %})
 22. [Track wiring]({% post_url 2023-11-07-scenic-ridge-22 %})
+23. [More track wiring]({% post_url 2023-11-11-scenic-ridge-23 %})
 
 ## Parts List
 
@@ -69,10 +70,6 @@ I do not include tax or shipping in the amounts.  These vary wildly between loca
 | Titebond II Wood Glue                      | 16 oz. | $9.98   | $9.98   |
 | Woodland Scenics Scenic Ridge              | 1      | $354.99 | $354.99 |
 | Atlas Scenic Ridge Track Pack              | 1      | $93.50  | $93.50  |
-| Songhe Mega2560 + Wifi R3                  | 1      | $22.88  | $22.88  |
-| KOOBOOK L298P Motor Shield                 | 1      | $16.99  | $16.99  |
-| 12V DC Power Connectors (10 per pack)      | 1      | $7.99   | $7.99   |
-| UpBright 16V AC/DC Adapter                 | 1      | $21.99  | $21.99  |
 | 18AWG Solid Core Red and Black Wire (20ft) | 1      | $9.98   | $9.98   |
 | Atlas N Code 80 Terminal Joiners           | 4      | $8.32   | $8.32   |
 | Atlas 2536 N Code 80 Bumpers (qty 2)       | 1      | $4.57   | $4.57   |
@@ -83,13 +80,14 @@ I do not include tax or shipping in the amounts.  These vary wildly between loca
 | Pack of 50 Nitrile Gloves                  | 1      | $8.69   | $8.69   |
 | 14AWG 2 conductor stranded wire 50ft       | 1      | $19.98  | $19.98  |
 | 22AWG 2 conductor stranded wire 200ft      | 1      | $16.98  | $16.98  |
-| Terminal block - 12 position 10Amp (x10)   | 1      | $8.59   | $8.59   |
-| 50 pairs T-Tap Wire connectors             | 1      | $6.29   | $6.29   |
 | Solder Wire and Rosin Paste Flux Kit       | 1      | $8.99   | $8.99   |
 | 2ft x 2ft x 1in XPS foam boards            | 6      | $8.67   | $52.02  |
 | Woodland Scenics N-Scale track bed         | 1      | $11.99  | $11.99  |
+| Screw terminal strip blocks (6+ positions) | 2      | $12.99  | $12.99  |
 
-Total cost: **$721.16**
+Note that my actual purchases include things not in this list.  That's because they were not used in the final version.
+
+Total cost: **$729.25**
 
 Parts for the DCC-EX Command Station:
 
