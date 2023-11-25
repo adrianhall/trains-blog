@@ -56,6 +56,7 @@ This blog post will be updated as I complete blogs about Scenic Ridge.  You can 
 22. [Track wiring]({% post_url 2023-11-07-scenic-ridge-22 %})
 23. [More track wiring]({% post_url 2023-11-11-scenic-ridge-23 %})
 24. [Casting rocks]({% post_url 2023-11-19-scenic-ridge-24 %})
+25. [Painting the rocks and base coat]({% post_url 2023-11-24-scenic-ridge-25 %})
 
 ## Parts List
 
@@ -85,10 +86,11 @@ I do not include tax or shipping in the amounts.  These vary wildly between loca
 | 2ft x 2ft x 1in XPS foam boards            | 6      | $8.67   | $52.02  |
 | Woodland Scenics N-Scale track bed         | 1      | $11.99  | $11.99  |
 | Screw terminal strip blocks (6+ positions) | 2      | $12.99  | $12.99  |
+| 1/2 pint of matte latex base coat          | 2      | $4.99   | $9.98   |
 
 Note that my actual purchases include things not in this list.  That's because they were not used in the final version.
 
-Total cost: **$729.25**
+Total cost: **$739.23**
 
 Parts for the DCC-EX Command Station:
 
