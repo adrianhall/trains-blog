@@ -57,6 +57,7 @@ This blog post will be updated as I complete blogs about Scenic Ridge.  You can 
 23. [More track wiring]({% post_url 2023-11-11-scenic-ridge-23 %})
 24. [Casting rocks]({% post_url 2023-11-19-scenic-ridge-24 %})
 25. [Painting the rocks and base coat]({% post_url 2023-11-24-scenic-ridge-25 %})
+26. [Installing rocks]({% post_url 2023-11-26-scenic-ridge-26 %})
 
 ## Parts List
 
