@@ -7,7 +7,7 @@ tags: [ "Scale,N" ]
 
 This is a quick update on progress.  Over the last few days, I've laid down most of the plaster cloth that is supplied with the kit.  Some of it has been in big strips, laid with the aid of a spray bottle that has been liberally applied.  This allows me to get a good chunk of the layout and edges done quickly.
 
-![The progress so far](/assets/2023/1028/IMG_2256.JPG)
+![The progress so far](/assets/2023/10/28/IMG_2256.JPG)
 
 As you can see, the mountain is roughed in, and most of the track is covered.  I had to do a few more road adjustments.  Today, I added a small incline to the left hand side (leading from the tracks to the platform), and then a small incline to the right side (leading from the center track to the town area).  These have been glued down and are waiting for the glue to dry before I plaster them.
 

@@ -9,13 +9,13 @@ It's been a couple of days since my last update.  I had to go to my local hobby 
 
 On to the track laying.  Same as before - put some tacky glue down.  Wait for a couple of minutes for it to become tacky, then put the track down, and finally secure it with some foam tacks.
 
-![The track is laid](/assets/2023/1104/IMG_2260.JPG)
+![The track is laid](/assets/2023/11/04/IMG_2260.JPG)
 
 There were two problem areas.  The right hand cross-over points didn't quite fit.  Also, the connection to the bridge ended up a little too far over, resulting in a very small gap.  Here, I fixed two birds with one stone, or maybe two gaps with one piece of track.  I cut a small amount of track from a 5" piece of straight track to make the cross-over work.  Then I soldered the remaining track to the bridge, allowing it to extend just a little bit more to fit.
 
 Here is the bridge:
 
-![The bridge](/assets/2023/1104/IMG_2263.JPG)
+![The bridge](/assets/2023/11/04/IMG_2263.JPG)
 
 I've noticed one joint where the joiner didn't go onto the rail properly.  I'll fix that once the glue is dried.  I've done that repair before when I was doing the tunnel laying.
 

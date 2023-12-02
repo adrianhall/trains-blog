@@ -41,11 +41,11 @@ Repeat for the other sides. Matt was great (aka, he did most of the work here an
 
 Here is the underside of the completed unit:
 
-![Underside of the baseboard](/assets/2023/0924/img1.jpg)
+![Underside of the baseboard](/assets/2023/09/24/img1.jpg)
 
 And here is what the top looks like:
 
-![Topside of the baseboard](/assets/2023/0924/img2.jpg)
+![Topside of the baseboard](/assets/2023/09/24/img2.jpg)
 
 It didn't turn out too badly, and for about $80 in materials.
 

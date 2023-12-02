@@ -58,6 +58,7 @@ This blog post will be updated as I complete blogs about Scenic Ridge.  You can 
 24. [Casting rocks]({% post_url 2023-11-19-scenic-ridge-24 %})
 25. [Painting the rocks and base coat]({% post_url 2023-11-24-scenic-ridge-25 %})
 26. [Installing rocks]({% post_url 2023-11-26-scenic-ridge-26 %})
+27. [Tunnel portals]({% post_url 2023-12-01-scenic-ridge-27 %})
 
 ## Parts List
 

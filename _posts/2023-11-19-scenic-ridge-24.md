@@ -15,7 +15,7 @@ This is easy enough.  I happen to have some wet water in a spray bottle, so it w
 
 They are really lumpy.  What I ended up doing was using some offcut pieces of foam to secure the molds level.  
 
-![Securing the rock molds in a level position](/assets/2023/1118/IMG_2285.jpg)
+![Securing the rock molds in a level position](/assets/2023/11/18/IMG_2285.jpg)
 
 It's isn't perfect, but what is?
 
@@ -29,7 +29,7 @@ The ratio I am using is 1 cup of hydrocal to 1/2 cup of water.  I'm using a bowl
 
 Pour the mix into the prepared molds.
 
-![The mix poured into the molds](/assets/2023/1118/IMG_2286.jpg)
+![The mix poured into the molds](/assets/2023/11/18/IMG_2286.jpg)
 
 Tap with the mixing stick to get the bubbles out.  Then leave them alone.
 

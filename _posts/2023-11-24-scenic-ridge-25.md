@@ -9,11 +9,11 @@ For those of you not in the US, yesterday was Thanksgiving - a great day off to 
 
 First the rocks.  I followed the instructions, mostly.  I put a few dropd of the burnt umber pygment into my palette followed by a bunch of water (they suggest 1 part pygment to 8 parts water, which worked for me).  Then I used a sponge to stipple the rocks with the color.  I repeated the process with the earty brown color.  Finally, I mixed the entire contents of the black pygment with 16 parts water so I could do a wash.  I actually think they came out ok.
 
-![The painted rocks](/assets/2023/1124/IMG_2291.jpg)
+![The painted rocks](/assets/2023/11/24/IMG_2291.jpg)
 
 Then I turned my attention to the layout itself and put down a base coat.  The instructions show that you should put down a base coat that is pretty light.  Almost everyone I talked to suggested the kit didn't contain enough, and I wanted something a little thicker so that I could cover up some of the little pinprick holes I have on the much hated plaster cloth.  So I headed down to the hardware store and picked up a half-pint of a golden sandy matte color.  The half-pint is called a "sample size" in paint land.  I also picked up a 2" cheap brush and used that for the bulk of the coverage.
 
-![The painted layout](/assets/2023/1124/IMG_2290.jpg)
+![The painted layout](/assets/2023/11/24/IMG_2290.jpg)
 
 Now, a half pint was not enough.  I used just about an entire pint of paint on the layout.  At the end of painting, I had enough for touch-ups later on.  Since the pints were almost exactly twice the cost of the half pints, I don't think I lost anything.  I also picked up a half pint of black paint to cover the outside of the layout, which I will do later with a roller.
 

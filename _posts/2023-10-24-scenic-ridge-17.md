@@ -9,11 +9,11 @@ Finally, I am getting to building the landscape.  To catch you up from [last tim
 
 Anyhow, I started at the lower tunnel entrance, since that's where the diagram started.
 
-![The tunnel entrance](/assets/2023/1024/IMG_2250.JPG)
+![The tunnel entrance](/assets/2023/10/24/IMG_2250.JPG)
 
 This was a bad place to start.  I needed to get used to laying out this plaster cloth and the right amount of newspaper to go underneath.  I had to use three or four layers of the plaster cloth to get the look right.  Using smaller pieces (maybe 3 inches square) worked the best here.  After I got that corner half done, I started working my way along the front of the layout.
 
-![The front of the layout](/assets/2023/1024/IMG_2251.JPG)
+![The front of the layout](/assets/2023/10/24/IMG_2251.JPG)
 
 Obviously, I'm going to get my sanding block out to smooth out the track bed before I begin laying track.
 
