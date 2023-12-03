@@ -9,7 +9,7 @@ The next phase in my scenery building for the Scenic Ridge layout is the "mounti
 
 Here is a look at the first rock I mounted:
 
-![The mounted rock](/assets/2023/11/26/IMG_2293.JPG)
+![The mounted rock](/assets/2023/11/26/IMG_2293.jpg)
 
 As you can see, I need to do some basic touch up - the black wash around the raised bit and then the golden base color around the edges.  Also, the rock cracked while I was installing it - not a big deal, but these castings are fragile.  Just squeeze it together while you are installing the rock pieces and you will be fine.
 
