@@ -60,6 +60,7 @@ This blog post will be updated as I complete blogs about Scenic Ridge.  You can 
 26. [Installing rocks]({% post_url 2023-11-26-scenic-ridge-26 %})
 27. [Tunnel portals]({% post_url 2023-12-01-scenic-ridge-27 %})
 28. [Building roads]({% post_url 2023-12-03-scenic-ridge-28 %})
+29. [Making buildings]({% post_url 2024-01-07-scenic-ridge-29 %})
 
 ## Parts List
 
