@@ -91,10 +91,11 @@ I do not include tax or shipping in the amounts.  These vary wildly between loca
 | Woodland Scenics N-Scale track bed         | 1      | $11.99  | $11.99  |
 | Screw terminal strip blocks (6+ positions) | 2      | $12.99  | $12.99  |
 | 1/2 pint of matte latex base coat          | 2      | $4.99   | $9.98   |
+| Woodland Scenics Fine Ballast              | 1      | $6.95   | $6.95   |
 
 Note that my actual purchases include things not in this list.  That's because they were not used in the final version.
 
-Total cost: **$739.23**
+Total cost: **$746.18**
 
 Parts for the DCC-EX Command Station:
 
