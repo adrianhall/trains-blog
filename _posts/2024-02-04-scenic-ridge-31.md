@@ -1,6 +1,6 @@
 ---
 title: "Scenic Ridge: The Snoring Warrior Tavern"
-date: 2024-02-04 11:03:00 +0800
+date: 2024-02-04 09:03:00 +0800
 categories: [ "Scenic Ridge" ]
 tags: [ "Scale,N" ]
 ---
